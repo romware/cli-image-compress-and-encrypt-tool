@@ -1,0 +1,1 @@
+# cli-image-compress-and-encrypt-tool
