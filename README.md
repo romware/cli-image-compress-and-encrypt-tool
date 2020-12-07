@@ -1,6 +1,6 @@
 # cli-image-compress-and-encrypt-tool
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/romware/cli-image-compress-and-encrypt-tool)
+![version](https://img.shields.io/badge/version-1.0.0-blue)
 
 **Sizey McSizeface** is an image compression and encryption application with unique CLI inline previews.
 
